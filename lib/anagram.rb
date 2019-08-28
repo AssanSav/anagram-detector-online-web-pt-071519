@@ -7,4 +7,7 @@ class Anagram
     @word = word 
   end
   
+  def self.match
+    
+  end
 end
